@@ -1,4 +1,4 @@
 # OPENSOURCE
  *typo
- *http://wwww.naver.com
+ *http://www.naver.com
  
